@@ -21,7 +21,7 @@ public class Signup extends AppCompatActivity {
         btnBack.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(Signup.this, ContactList.class);
+                Intent intent = new Intent(Signup.this, MainActivity.class);
                 startActivity(intent);
                 finish();
             }
