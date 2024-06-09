@@ -16,6 +16,6 @@
 1. **کپی کردن لینک دانلود:**
 
     ```bash
-    git clone https://github.com/username/repo.git
+    https://drive.google.com/file/d/1R29exEjPZInvRjFM33KZs4nPUIKmF3Iu/view?usp=share_link
     ```
 
